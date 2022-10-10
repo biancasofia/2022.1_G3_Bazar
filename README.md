@@ -43,7 +43,7 @@
 
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: <br>
+**Principal(is) Metodologia(s) Adotada(s)**: <br> Metodologias ágeis - Scrum, XP
 **Principais Linguagens Utilizadas e/ou Pretendidas**:Java,Typescript <br>
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: Spring Boot, Angular<br>
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: <br>
